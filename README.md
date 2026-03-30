@@ -1,6 +1,6 @@
 # Chat-with-PDF---Generative-AI
 
-##Project Overview
+## Project Overview
 Our project is a cloud-based “Chat with PDF” application built using Amazon Bedrock, Titan Embeddings, Claude 3 Sonnet, LangChain, Docker, and Amazon S3. The goal is to allow users to ask natural-language questions about a PDF and receive accurate, grounded answers based strictly on the document’s content.
 
 We built two separate interfaces:
